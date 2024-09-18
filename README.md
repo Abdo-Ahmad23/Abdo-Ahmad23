@@ -5,7 +5,8 @@
 
 
 - 💬 Ask me about **competitive programming**
-- 💬 Ask me about **Full Stack Web Developemnt (Laravel & Angular)**
+- 💬 Ask me about **Full Stack Web Development (Laravel & Angular)**
+- 💬 Ask me about **Odoo Development**
 
 - 📫 How to reach me **thisforwork23@gmail.com**
 
